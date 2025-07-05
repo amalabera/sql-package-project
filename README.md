@@ -12,7 +12,8 @@ This project is designed using **HTML + CSS** and helps users understand the usa
 
 ## 📸 Preview
 
-![Output Screenshot](images/output-example.png)
+![Output Screenshot]:![Screenshot 2025-07-04 231633](https://github.com/user-attachments/assets/15e3f77e-fdd1-4afd-8b66-4054f84f08bc)
+
 
 ## 🛠️ Tech Stack
 
@@ -20,5 +21,11 @@ This project is designed using **HTML + CSS** and helps users understand the usa
 - CSS
 - Oracle SQL (concepts only)
 
-## 📂 Project Structure
+## 📂 Project Structure##
+sql-package-summary/
+├── index.html
+├── style.css
+├── images/
+│ └── output-example.png
+
 
